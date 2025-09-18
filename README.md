@@ -10,6 +10,9 @@ View current temperature, weather conditions, humidity, and wind speed.
 Get a clean and responsive interface for desktop & mobile.
 
 This project uses OpenWeatherMap API (or your chosen weather API) to fetch real-time weather data.
+## 🔗 Live Demo  
+Check out the live app here: [Weather Check](https://68cc3750234d1cd30417b9ef--frolicking-lebkuchen-a79a4f.netlify.app/)
+
 
 🚀 Tech Stack
 
