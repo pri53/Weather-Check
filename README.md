@@ -1,4 +1,4 @@
-#Weather Check 🌦️
+## Weather Check 🌦️
 
 Weather Check is a simple web application built with HTML, CSS, and JavaScript.
 It allows users to:
@@ -14,7 +14,7 @@ This project uses OpenWeatherMap API (or your chosen weather API) to fetch real-
 Check out the live app here: [Weather Check](https://68cc3750234d1cd30417b9ef--frolicking-lebkuchen-a79a4f.netlify.app/)
 
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
 HTML – Structure of the app
 
