@@ -1,4 +1,4 @@
-Weather Check 🌦️
+#Weather Check 🌦️
 
 Weather Check is a simple web application built with HTML, CSS, and JavaScript.
 It allows users to:
